@@ -8,30 +8,35 @@
   },
   "tokens": [
     {
-      "address": "0xb20c7227d6e8bd4137593141A7A6003526cC96e5",
-      "name": "Test Token 1",
-      "symbol": "TEST1",
-      "decimals": 18
+        "chainId": 80094,
+        "address": "0xb20c7227d6e8bd4137593141A7A6003526cC96e5",
+        "name": "Test Token 1",
+        "symbol": "TEST1",
+        "decimals": 18
     },
     {
+        "chainId": 80094,
         "address": "0x15db56575B98001d291e9A5dC30B31E0248Df210",
         "name": "Test Token 2",
         "symbol": "TEST2",
         "decimals": 18
     },
     {
+        "chainId": 80094,
         "address": "0x222B53412202C9774e631D068bb86921e2174106",
         "name": "Test Token 3",
         "symbol": "TEST3",
         "decimals": 18
     },
     {
+        "chainId": 80094,
         "address": "0xd2F56F73d6dbD74EfCa246dC315F177125324f5D",
         "name": "Test Token 4",
         "symbol": "TEST4",
         "decimals": 18
     },
     {
+        "chainId": 80094,
         "address": "0xb2EaD94142BD3f35D97aA004E7E37FD614CA2536",
         "name": "Test Token 5",
         "symbol": "TEST5",
