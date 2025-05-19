@@ -38,8 +38,8 @@
     {
         "chainId": 80094,
         "address": "0xb2EaD94142BD3f35D97aA004E7E37FD614CA2536",
-        "name": "Test Token 5",
-        "symbol": "TEST5",
+        "name": "USDC(FAKE)",
+        "symbol": "USDC(FAKE)",
         "decimals": 6
     },
     {
