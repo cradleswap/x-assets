@@ -9,37 +9,37 @@
   "tokens": [
     {
         "chainId": 80094,
-        "address": "0xb20c7227d6e8bd4137593141A7A6003526cC96e5",
+        "address": "0xD80f433dd2f7370c725260b212c394fe42aC5Ab4",
         "name": "Test Token 1",
         "symbol": "TEST1",
         "decimals": 18
     },
     {
         "chainId": 80094,
-        "address": "0x15db56575B98001d291e9A5dC30B31E0248Df210",
+        "address": "0x0867B7034Bd0C090de6CEB4a21cE68716F93d509",
         "name": "Test Token 2",
         "symbol": "TEST2",
         "decimals": 18
     },
     {
         "chainId": 80094,
-        "address": "0x222B53412202C9774e631D068bb86921e2174106",
+        "address": "0xc000649F18Fd024f79126439BDf06f755aF9f78B",
         "name": "Test Token 3",
         "symbol": "TEST3",
         "decimals": 18
     },
     {
         "chainId": 80094,
-        "address": "0xd2F56F73d6dbD74EfCa246dC315F177125324f5D",
+        "address": "0xFe8C27DA2d51953810A45982387dA822aA925FdC",
         "name": "Test Token 4",
         "symbol": "TEST4",
         "decimals": 18
     },
     {
         "chainId": 80094,
-        "address": "0xb2EaD94142BD3f35D97aA004E7E37FD614CA2536",
-        "name": "USDC(FAKE)",
-        "symbol": "USDC(FAKE)",
+        "address": "0x5DC8CD70ac6aC8c3fCa798044C26e3322B6F9037",
+        "name": "USDCx",
+        "symbol": "USDCx",
         "decimals": 6
     },
     {
@@ -61,20 +61,6 @@
       "name": "Honey",
       "address": "0xFCBD14DC51f0A4d49d5E53C2E0950e0bC26d0Dce",
       "symbol": "HONEY",
-      "decimals": 18
-    },
-    {
-      "chainId": 80094,
-      "name": "Infrared BGT",
-      "address": "0xac03CABA51e17c86c921E1f6CBFBdC91F8BB2E6b",
-      "symbol": "iBGT",
-      "decimals": 18
-    },
-    {
-      "chainId": 80094,
-      "name": "Henlo",
-      "address": "0xb2F776e9c1C926C4b2e54182Fac058dA9Af0B6A5",
-      "symbol": "HENLO",
       "decimals": 18
     }
   ]
