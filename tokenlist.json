@@ -64,28 +64,25 @@
       "decimals": 18
     },
     {
+      "chainId": 80094,
       "name": "LIPTON",
       "symbol": "LIPTON",
       "address": "0xE3B7168BF094D3408981F81D86a31405eC500b40",
-      "decimals": 18,
-      "imgSrc": "https://berascan.com/assets/bera/images/svg/empty-token.svg?v=25.5.3.2",
-      "chainId": 80094
+      "decimals": 18
     },
     {
+      "chainId": 80094,
       "name": "vLIPTON",
       "symbol": "vLIPTON",
       "address": "0x1f966a5C3E798F9702C3f4a094EC045fAB87e0aa",
-      "decimals": 18,
-      "imgSrc": "https://berascan.com/assets/bera/images/svg/empty-token.svg?v=25.5.3.2",
-      "chainId": 80094
+      "decimals": 18
     },
     {
+      "chainId": 80094,
       "name": "xLIPTON",
       "symbol": "xLIPTON",
       "address": "0xa4A2083A79AC88f60aD74189548F5c78520764E3",
-      "decimals": 18,
-      "imgSrc": "https://berascan.com/assets/bera/images/svg/empty-token.svg?v=25.5.3.2",
-      "chainId": 80094
+      "decimals": 18
     }
   ]
 }
