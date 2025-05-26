@@ -31,7 +31,7 @@
     {
         "chainId": 80094,
         "address": "0x975e06E0ee2b3D4949D0717942F27DDf7C1281D9",
-        "name": "Test Token 4",
+        "name": "Test Token 4 ",
         "symbol": "TEST4",
         "decimals": 18
     },
