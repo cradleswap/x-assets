@@ -28,15 +28,13 @@ jobs:
         run: |
           aws s3 sync ./assets \
             s3://${{ secrets.S3_BUCKET_NAME }}/assets \
-            --delete \
-            --acl public-read
+            --delete
 
       # 4. Upload tokenlist.json
       - name: Upload tokenlist.json
         run: |
           aws s3 cp ./tokenlist.json \
-            s3://${{ secrets.S3_BUCKET_NAME }}/tokenlist.json \
-            --acl public-read
+            s3://${{ secrets.S3_BUCKET_NAME }}/tokenlist.json
 
       # 5. invalidate CloudFront
       - name: Create CloudFront Invalidation
