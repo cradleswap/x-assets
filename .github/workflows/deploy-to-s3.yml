@@ -27,14 +27,12 @@ jobs:
         run: |
           aws s3 sync ./assets \
             s3://${{ secrets.S3_BUCKET_NAME }}/assets \
-            --delete \
-            --acl public-read
+            --delete
 
       - name: Upload tokenlist.json
         run: |
           aws s3 cp ./tokenlist.json \
-            s3://${{ secrets.S3_BUCKET_NAME }}/tokenlist.json \
-            --acl public-read
+            s3://${{ secrets.S3_BUCKET_NAME }}/tokenlist.json
 
       # 3. (optional) build step
       # - name: Build project
