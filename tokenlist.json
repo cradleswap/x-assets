@@ -8,41 +8,6 @@
   },
   "tokens": [
     {
-        "chainId": 80094,
-        "address": "0xc95e9296a8cA32F7Cf7fB06D683eD583402E53eF",
-        "name": "Test Token 1",
-        "symbol": "TEST1",
-        "decimals": 18
-    },
-    {
-        "chainId": 80094,
-        "address": "0x292550faD2afa1aeA4a510B6d5BCb8e95C6bDD21",
-        "name": "Test Token 2",
-        "symbol": "TEST2",
-        "decimals": 18
-    },
-    {
-        "chainId": 80094,
-        "address": "0xE38DC7fDeb882Ff82A69Fa9C446FEb74254CcBa9",
-        "name": "Test Token 3",
-        "symbol": "TEST3",
-        "decimals": 18
-    },
-    {
-        "chainId": 80094,
-        "address": "0x975e06E0ee2b3D4949D0717942F27DDf7C1281D9",
-        "name": "Test Token 4 ",
-        "symbol": "TEST4",
-        "decimals": 18
-    },
-    {
-        "chainId": 80094,
-        "address": "0x781F694c61223C48582aD1dc645B56798541fe4D",
-        "name": "USDCx",
-        "symbol": "USDCx",
-        "decimals": 6
-    },
-    {
       "chainId": 80094,
       "name": "Wrapped Bera",
       "address": "0x6969696969696969696969696969696969696969",
@@ -50,38 +15,54 @@
       "decimals": 18
     },
     {
-      "chainId": 80094,
-      "name": "Bridged USDC",
-      "address": "0x549943e04f40284185054145c6E4e9568C1D3241",
-      "symbol": "USDC",
-      "decimals": 6
+      "address": "0xEb56023D43286087a61499f831015E068B53087A",
+      "name": "Test Token 1 - WETH",
+      "symbol": "TESTWETH",
+      "decimals": 18
     },
     {
-      "chainId": 80094,
-      "name": "Honey",
-      "address": "0xFCBD14DC51f0A4d49d5E53C2E0950e0bC26d0Dce",
-      "symbol": "HONEY",
+      "address": "0xc634a7bf7f26d5E4fe9feb3FD1bD0e62f5b7d7eC",
+      "name": "Test Token 2 - wstETH",
+      "symbol": "TESTWSTETH",
       "decimals": 18
+    },
+    {
+      "address": "0xF46aFA343c220B492cA7FB2A95a0b521e2207824",
+      "name": "Test Token 3 - WBTC",
+      "symbol": "TESTWBTC",
+      "decimals": 8
+    },
+    {
+      "address": "0x985b3A0412B76414FaBdb0F5DC553aFdaFb948dE",
+      "name": "Test Token 4 - HONEY",
+      "symbol": "TESTHONEY",
+      "decimals": 18
+    },
+    {
+      "address": "0x00533B3C38fb67529c26E54CfFf9d58AB0E11E23",
+      "name": "Test Token 5 - USDC",
+      "symbol": "TESTUSDC",
+      "decimals": 6
     },
     {
       "chainId": 80094,
       "name": "LIPTON",
       "symbol": "LIPTON",
-      "address": "0x1c059a934504a314Bbb1aa096F9842998b201215",
+      "address": "0x411C20AC56b95b1eCDcC748d32C83aEDD2c0e2f1",
       "decimals": 18
     },
     {
       "chainId": 80094,
       "name": "vLIPTON",
       "symbol": "vLIPTON",
-      "address": "0xa43eb33cad032D3D79f155B9bE41E26c2740F45E",
+      "address": "0xA8082bFE3d94915bF7dE02b933b976EE57471588",
       "decimals": 18
     },
     {
       "chainId": 80094,
       "name": "xLIPTON",
       "symbol": "xLIPTON",
-      "address": "0x458980fb918910244956B413D37CC90B637f1742",
+      "address": "0x5aE40e07bb703203ddA4Fb6eD268cB41568F8FF2",
       "decimals": 18
     }
   ]
