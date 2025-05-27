@@ -15,30 +15,35 @@
       "decimals": 18
     },
     {
+      "chainId": 80094,
       "address": "0xEb56023D43286087a61499f831015E068B53087A",
       "name": "Test Token 1 - WETH",
       "symbol": "TESTWETH",
       "decimals": 18
     },
     {
+      "chainId": 80094,
       "address": "0xc634a7bf7f26d5E4fe9feb3FD1bD0e62f5b7d7eC",
       "name": "Test Token 2 - wstETH",
       "symbol": "TESTWSTETH",
       "decimals": 18
     },
     {
+      "chainId": 80094,
       "address": "0xF46aFA343c220B492cA7FB2A95a0b521e2207824",
       "name": "Test Token 3 - WBTC",
       "symbol": "TESTWBTC",
       "decimals": 8
     },
     {
+      "chainId": 80094,
       "address": "0x985b3A0412B76414FaBdb0F5DC553aFdaFb948dE",
       "name": "Test Token 4 - HONEY",
       "symbol": "TESTHONEY",
       "decimals": 18
     },
     {
+      "chainId": 80094,
       "address": "0x00533B3C38fb67529c26E54CfFf9d58AB0E11E23",
       "name": "Test Token 5 - USDC",
       "symbol": "TESTUSDC",
