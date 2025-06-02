@@ -56,7 +56,7 @@
       "symbol": "LIPTON",
       "address": "0x411C20AC56b95b1eCDcC748d32C83aEDD2c0e2f1",
       "decimals": 18,
-      "protocol-related": true
+      "isProtocolRelated": true
     },
     {
       "chainId": 80094,
@@ -64,7 +64,7 @@
       "symbol": "vLIPTON",
       "address": "0xA8082bFE3d94915bF7dE02b933b976EE57471588",
       "decimals": 18,
-      "protocol-related": true
+      "isProtocolRelated": true
     },
     {
       "chainId": 80094,
@@ -72,7 +72,7 @@
       "symbol": "xLIPTON",
       "address": "0x5aE40e07bb703203ddA4Fb6eD268cB41568F8FF2",
       "decimals": 18,
-      "protocol-related": true
+      "isProtocolRelated": true
     }
   ]
 }
