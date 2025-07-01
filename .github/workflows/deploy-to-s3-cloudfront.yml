@@ -28,7 +28,7 @@ jobs:
         run: |
           aws s3 sync ./assets \
             s3://${{ secrets.S3_BUCKET_NAME }}/assets \
-            --delete
+            --delete 
 
       # 4. Upload tokenlist.json
       - name: Upload tokenlist.json

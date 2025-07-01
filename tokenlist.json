@@ -1,6 +1,6 @@
 {
   "name": "token list",
-  "timestamp": "2025-04-22T00:00:00Z",
+  "timestamp": "2025-07-01T00:00:00Z",
   "version": {
     "major": 1,
     "minor": 1,
@@ -17,44 +17,44 @@
     },
     {
       "chainId": 80094,
-      "address": "0xEb56023D43286087a61499f831015E068B53087A",
-      "name": "Test Token 1 - WETH",
-      "symbol": "TESTWETH",
-      "decimals": 18
+        "address": "0xE86Dbed38D60b90903c3C6a8b74c3b32ea3205a9",
+        "name": "Test Token 1 - WETH",
+        "symbol": "tWETH",
+        "decimals": 18
     },
     {
       "chainId": 80094,
-      "address": "0xc634a7bf7f26d5E4fe9feb3FD1bD0e62f5b7d7eC",
-      "name": "Test Token 2 - wstETH",
-      "symbol": "TESTWSTETH",
-      "decimals": 18
+        "address": "0x7B71802F8c97081d7d1D5a17C97f7B9cA6440506",
+        "name": "Test Token 2 - wstETH",
+        "symbol": "tWSTETH",
+        "decimals": 18
     },
     {
       "chainId": 80094,
-      "address": "0xF46aFA343c220B492cA7FB2A95a0b521e2207824",
-      "name": "Test Token 3 - WBTC",
-      "symbol": "TESTWBTC",
-      "decimals": 8
+        "address": "0x777Bf35dff0FD8278843CD93e1024f38b04bA180",
+        "name": "Test Token 3 - WBTC",
+        "symbol": "tWBTC",
+        "decimals": 8
     },
     {
       "chainId": 80094,
-      "address": "0x985b3A0412B76414FaBdb0F5DC553aFdaFb948dE",
-      "name": "Test Token 4 - HONEY",
-      "symbol": "TESTHONEY",
-      "decimals": 18
+        "address": "0xca28967Ed874cA3F6d33d8FFEF9D7A6F92261ed7",
+        "name": "Test Token 4 - HONEY",
+        "symbol": "tUSDT18",
+        "decimals": 18
     },
     {
-      "chainId": 80094,
-      "address": "0x00533B3C38fb67529c26E54CfFf9d58AB0E11E23",
-      "name": "Test Token 5 - USDC",
-      "symbol": "TESTUSDC",
-      "decimals": 6
+        "chainId": 80094,
+        "address": "0x13A06e74f075CA1262861cd1D0561539a65f4545",
+        "name": "Test Token 5 - USDC",
+        "symbol": "tUSDC",
+        "decimals": 6
     },
     {
       "chainId": 80094,
       "name": "LIPTON",
       "symbol": "LIPTON",
-      "address": "0x411C20AC56b95b1eCDcC748d32C83aEDD2c0e2f1",
+      "address": "0xDeDd7fe8C6ba00bE3E1fDD63D6A3003ea4dA5Dd5",
       "decimals": 18,
       "isProtocolRelated": true
     },
@@ -62,7 +62,7 @@
       "chainId": 80094,
       "name": "vLIPTON",
       "symbol": "vLIPTON",
-      "address": "0xA8082bFE3d94915bF7dE02b933b976EE57471588",
+      "address": "0x8CE336502aF2088ddE307FE63a4AD2BF71567D2B",
       "decimals": 18,
       "isProtocolRelated": true
     },
@@ -70,7 +70,7 @@
       "chainId": 80094,
       "name": "xLIPTON",
       "symbol": "xLIPTON",
-      "address": "0x5aE40e07bb703203ddA4Fb6eD268cB41568F8FF2",
+      "address": "0xCfA1fCb99C6b4b17C28D449BE74e15fBf1B58D73",
       "decimals": 18,
       "isProtocolRelated": true
     }
