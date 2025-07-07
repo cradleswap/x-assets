@@ -1,6 +1,6 @@
 {
   "name": "token list",
-  "timestamp": "2025-07-03T00:00:00Z",
+  "timestamp": "2025-07-07T00:00:00Z",
   "version": {
     "major": 1,
     "minor": 1,
@@ -17,35 +17,35 @@
     },
     {
       "chainId": 80094,
-      "address": "0xd3857a69924D8F537e55a54875094BCCDbD770B9",
+      "address": "0xcA5C8114608Cd1ffeaf8cbc7A3e00f803e8b8516",
       "name": "Test Token 1 - WETH",
       "symbol": "tWETH",
       "decimals": 18
     },
     {
       "chainId": 80094,
-      "address": "0x85838D99A835C7c668d7aCe26dF82A191318c9D6",
+      "address": "0xB30E05E52777A9bbc3296120B4c07F16bFEe246E",
       "name": "Test Token 2 - wstETH",
       "symbol": "tWSTETH",
       "decimals": 18
     },
     {
       "chainId": 80094,
-      "address": "0x716e3fDD096D1E67e67Ea3cF0cDd887F5dA0d8c6",
+      "address": "0xdABEb2790e8FC74b7bE8Da41dF3b985736f4e673",
       "name": "Test Token 3 - WBTC",
       "symbol": "tWBTC",
       "decimals": 8
     },
     {
       "chainId": 80094,
-      "address": "0xAB94f1780e61577A345644515341fA8565CCc3Ce",
+      "address": "0xEBBA45D55CDbd60bf3869C4E1Daf3F1003D02946",
       "name": "Test Token 4 - HONEY",
       "symbol": "tUSDT18",
       "decimals": 18
     },
     {
       "chainId": 80094,
-      "address": "0x3440B71284421f0C20de1D1718905347553C27B9",
+      "address": "0x346c672a85401755d9F49f667ccd18A1EC41aE85",
       "name": "Test Token 5 - USDC",
       "symbol": "tUSDC",
       "decimals": 6
@@ -54,7 +54,7 @@
       "chainId": 80094,
       "name": "LIPTON",
       "symbol": "LIPTON",
-      "address": "0x930ccd50AcE03F566C26212c6d021d7B7D0E7Efb",
+      "address": "0xf12c1e4c8eebb99013fabA2D620525aD8d28234E",
       "decimals": 18,
       "isProtocolRelated": true
     },
@@ -62,7 +62,7 @@
       "chainId": 80094,
       "name": "vLIPTON",
       "symbol": "vLIPTON",
-      "address": "0x363496100e5b3e7B904542CbC3D91cA9F9F975aB",
+      "address": "0x7bA38c5da8263b3194964bE45055cBCe8e6b4AaA",
       "decimals": 18,
       "isProtocolRelated": true
     },
@@ -70,7 +70,7 @@
       "chainId": 80094,
       "name": "xLIPTON",
       "symbol": "xLIPTON",
-      "address": "0x4Cb746990FdB64f640f12e4a0334607CcBfb2e0C",
+      "address": "0x59c504d391CCa421E479a7c0461aAf0951350568",
       "decimals": 18,
       "isProtocolRelated": true
     }
